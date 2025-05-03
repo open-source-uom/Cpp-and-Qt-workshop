@@ -1,3 +1,0 @@
-/home/tcanabrava/Data/Courses/UniMacedonia/hello_world_using_lib/build/CMakeFiles/hello_world_with_lib.dir
-/home/tcanabrava/Data/Courses/UniMacedonia/hello_world_using_lib/build/CMakeFiles/edit_cache.dir
-/home/tcanabrava/Data/Courses/UniMacedonia/hello_world_using_lib/build/CMakeFiles/rebuild_cache.dir
